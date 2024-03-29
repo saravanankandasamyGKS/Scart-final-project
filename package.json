@@ -2,6 +2,7 @@
   "name": "jvlcart",
   "version": "1.0.0",
   "description": "ecommerce using MERN stack",
+  "main":"server.js",
   "scripts": {
     "start": "nodemon backend/server.js",
     "dev": "set NODE_ENV=development&&nodemon backend/server.js",
