@@ -1,5 +1,5 @@
 {
-  "name": "Scart",
+  "name": "scart",
   "version": "1.0.0",
   "description": "ecommerce using MERN stack",
   "main": "server.js",
